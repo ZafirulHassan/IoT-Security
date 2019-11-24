@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "IoT Eco System Threat Model",
+    "owner": "Zafirul Hassan",
+    "description": "The IoT eco system threat model for smart home scenarios."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "IoT Eco System",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Zafirul Hassan"
+  }
+}
